@@ -3,8 +3,8 @@ This python script's design is to be able to grab your gym reservation and add i
 
 Dependencies:
 Outlook for Windows
-,Python3
-,PyWin32
+Python3
+PyWin32
 
 Download the latest version of python here https://www.python.org/downloads/
 Make sure to install it with pip
