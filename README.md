@@ -7,7 +7,8 @@ Python3
 PyWin32
 
 Download the latest version of python here https://www.python.org/downloads/
-Make sure to install it with pip
+
+Make sure to install it with pip and select add to PATH
 
 To install PyWin32, after you install python open up Command Prompt then type in pip install pywin32
 
